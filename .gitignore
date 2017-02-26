@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# SQLite databases
+*.sqlite3
+
 # Distribution / packaging
 .Python
 env/
@@ -87,3 +90,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.idea/
